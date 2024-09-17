@@ -15,5 +15,6 @@ My main focus areas are **Back-end**, **Server**, and **Database**.
 - **Pull Request**: [#2997](https://github.com/spring-projects/spring-data-redis/pull/2997)
 
 ## How to Reach Me
-[![Blog](https://img.shields.io/badge/Blog-Tistory-blue?style=flat-square&logo=githubpages)](https://jinbeomk.tistory.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jinbeom_Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jinbeom-kim-15ba0a1a2)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=docsdotrs)](https://career.programmers.co.kr/pr/kst20026_1757)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=flat-square&logo=githubpages)](https://jinbeomk.tistory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jinbeom-kim-15ba0a1a2)
