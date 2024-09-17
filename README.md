@@ -1,16 +1,19 @@
-## Hi there 👋
+ ![Hits](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
-<!--
-**kjb512/kjb512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jinbeom Kim
+Welcome to my page!
 
-Here are some ideas to get you started:
+I am a **server developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus areas are **Back-end**, **Server**, and **Database**.
+
+## Open Source Contribution
+
+### Spring Data Redis
+
+- **Issue**: [Eliminate Code Duplication in DefaultRedisList](https://github.com/spring-projects/spring-data-redis/issues/2996)
+- **Pull Request**: [#2997](https://github.com/spring-projects/spring-data-redis/pull/2997)
+
+## How to Reach Me
+[![Blog](https://img.shields.io/badge/Blog-Tistory-blue?style=flat-square&logo=githubpages)](https://jinbeomk.tistory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jinbeom_Kim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jinbeom-kim-15ba0a1a2)
