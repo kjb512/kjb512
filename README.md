@@ -1,4 +1,4 @@
- ![Hits](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+ ![Hits](https://komarev.com/ghpvc/?username=kjb512&color=blueviolet)
 
 # Jinbeom Kim
 Welcome to my page!
